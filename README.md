@@ -1,1 +1,1 @@
-# campus-management-system
+# Capmpus #
