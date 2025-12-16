@@ -1,0 +1,92 @@
+ANSH KUMAR - Senior Full Stack Developer
+
+
+SUMMARY
+
+
+Senior Full Stack Developer with 5+ years of experience building scalable, high-performance web applications using Next.js with Server-Side Rendering (SSR). Strong expertise in React, Node.js, and TypeScript, with hands-on experience optimizing SEO, page load performance, and data-fetching strategies through SSR and API integrations. Proven ability to design and deploy cloud-native applications on AWS and GCP with secure, production-grade architectures. Adept at collaborating cross-functionally to deliver reliable, user-centric solutions.
+
+
+TECHNICAL SKILLS
+
+Frontend:
+JavaScript (ES6+), Next.js (SSR, SSG, ISR), React.js, TypeScript
+Backend:
+Node.js, Nest.js, PHP (Laravel, CodeIgniter, Yii)
+Databases:
+MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+Cloud & DevOps:
+AWS (EC2, Lambda, S3, SES), Google Cloud Platform (GCP), Docker
+Tools & Others:
+Git, JIRA, MS-365, REST APIs, GraphQL
+
+EXPERIENCE
+
+DARIO HEALTH | Senior Full Stack Developer | March 2023 - April 2025  
+
+Developed and deployed high-performance cloud functions using Node.js on Google Cloud Platform (GCP) to enhance mobile application capabilities. 
+
+Designed and optimized GraphQL/MySQL APIs, improving data retrieval efficiency and reducing response times. Managed and fine-tuned GCP infrastructure, ensuring smooth development workflows and seamless deployments. 
+
+Successfully migrated legacy systems to modern tech stack (Node.js, React.js, TypeScript) improving performance.
+
+Integrated APM for real-time application monitoring, enabling faster issue detection and resolution. 
+
+Tech Used: Node.js, Nest.js, GCP, MongoDB, MySQL, GraphQL, React.js, Docker, AWS (Lambda, S3)   
+
+
+ROUNDER LABS PVT. LTD. | Full Stack Developer | October 2022 - February 2023
+
+Developed and optimized MasterBot, an AI-driven trading bot designed to analyze market trends and assist users in making data-driven trading decisions. 
+
+Implemented React.js components for a seamless and intuitive user interface, improving usability and engagement.
+
+Engineered scalable user management modules, ensuring secure authentication, authorization, and role-based access control. Designed and optimized the database architecture, enabling efficient data processing and real-time analytics. 
+
+Tech Used: React.js, Node.js, SQL, NoSQL
+
+
+ORBITSYS TECHNOLOGIES | Full Stack Developer | March 2022 - July 2022
+
+Maintained CRM (Customer Relationship Management) and DMS (Dealer Management System), enhancing business automation and customer interactions. 
+
+Built scalable APIs for seamless integration between the Android application, CRM and DMS, improving data flow and user experience. 
+
+Engineered & automated report generation and email notification services, reducing manual effort and improving operational efficiency. 
+
+Collaborated with cross-functional teams to optimize system performance and implement best coding practices. 
+
+Tech Used: .NET, React.js, Java
+
+VALUE INNOVATION LABS | Full Stack Developer | February 2021 - February 2022
+
+
+Designed and developed EMS (Exhibition Management System), streamlining event planning, vendor coordination, and attendee management. 
+
+Integrated payment gateways and accounting systems (Tally ERP) to automate transactions and financial reporting. 
+
+Engineered scalable database architectures, ensuring optimized data storage, retrieval, and performance. Developed secure API integrations to enable seamless communication between third-party services and the EMS platform. 
+
+Worked with WSO2 middleware for enterprise application integration, improving system interoperability and efficiency. 
+
+Tech Used: PHP, React.js, Node.js, WSO2
+
+
+SAMARTH E-Gov | Programmer | July 2019 - January 2021
+
+Worked at the Institute of Informatics and Communication, Delhi University, contributing to the development of Samarth e-Gov, a University-Centric ERP System (UIMS - University Infrastructure Management System) built on LAMP stack. 
+
+Designed and implemented the Payroll Management Module, incorporating the 7th Pay Commission regulations and automating the entire employee payroll lifecycle, reducing manual processing efforts. Developed the Budget Management Module, enabling the efficient allocation, tracking, and utilization of university budgets and finances at the beginning of each financial year. 
+
+Tech Used: PHP, JavaScript, AJAX, JQuery, Yii2
+
+
+EDUCATION
+
+2019 | MCA | Master in Computer Applications 
+
+Bharati Vidyapeeth's Institute of Computer Applications and Management, New Delhi
+
+2013 | BCA | Bachelor in Computer Applications 
+
+Institute of Innovation in Technology and Management, New Delhi
